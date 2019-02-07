@@ -1,4 +1,4 @@
 #!/bin/sh
-git checkout gh-pages
+git checkout unext-ray-need-to-update
 git rebase master
 git checkout master
